@@ -9,7 +9,7 @@ Set the ARCHITECTURE variable to "macOS_64bit" for Intel
 Set the ARCHITECTURE variable to "macOS_ARM64" for Apple Silicon
 </string>
     <key>Identifier</key>
-    <string>com.github.putnajoe.munki.</string>
+    <string>com.github.putnajoe.munki.Arduino</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
